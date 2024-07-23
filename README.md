@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning.more.code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on games.
-- 📫 How to reach me email: matteodemey2011@gmail.com
+- 📫 How to reach me email: /
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: i love coding
 
